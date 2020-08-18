@@ -11,6 +11,7 @@
         <div>
         </div>
         <asp:Label ID="Label1" runat="server" ForeColor="#FF0066" style="z-index: 1; left: 491px; top: 112px; position: absolute" Text="Hi all"></asp:Label>
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" style="z-index: 1; left: 495px; top: 235px; position: absolute" Text="Button" />
     </form>
 </body>
 </html>
